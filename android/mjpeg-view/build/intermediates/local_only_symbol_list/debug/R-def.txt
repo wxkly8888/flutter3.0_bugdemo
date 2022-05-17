@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+attr? backgroundColor
+attr? transparentBackground
+attr type
+id stream_default
+id stream_native
+string app_name
+styleable MjpegSurfaceView type transparentBackground backgroundColor
