@@ -67,6 +67,5 @@ flutter {
 }
 
 dependencies {
-    implementation project(':mjpeg-view')
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
